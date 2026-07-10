@@ -38,4 +38,4 @@ Rather than implementing a simple CRUD application, the goal of this project was
 
 ## 📄 Documentation
 
-Comprehensive analytical and design class diagrams, use case scenarios, and state diagrams can be found in the [`ProjectDocumentation/`](docs/) directory.
+Comprehensive analytical and design class diagrams, use case scenarios, and state diagrams can be found in the [`ProjectDocumentation`](docs/) directory.
